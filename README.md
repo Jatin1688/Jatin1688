@@ -1,3 +1,4 @@
+[![MasterHead](https://www.2440media.com/sites/default/files/assets/images/blog/The%20Difference%20between%20Web%20Designer%2C%20Web%20Developer%2C%20and%20Web%20Programmer.jpg?w=200)]
 <h1 align="center">Hi 👋, I'm Jatin Shakya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.clipart-library.com/24/03d7163d-1fdf-4aa8-ac11-a030d71107a5.png">
