@@ -1,13 +1,12 @@
-
+[![Yellow-Black-Simple-Profile-Linked-In-Banner.png](https://i.postimg.cc/MpxZpf8s/Yellow-Black-Simple-Profile-Linked-In-Banner.png)](https://postimg.cc/F7WXPRzc)
 <h1 align="center">Hi 👋, I'm Jatin Shakya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.clipart-library.com/24/03d7163d-1fdf-4aa8-ac11-a030d71107a5.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1688&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1688" /> </p>
 
-- 🔭 I’m currently working on **a node.js project**
+- 🔭 I’m currently working on **a Node.js Project**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **jatinshakya811@gmail.com**
 
